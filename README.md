@@ -2,6 +2,7 @@
 Repositorio Creado para practicar Git y Github
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 
@@ -11,3 +12,6 @@ texto en main stash
 
 texto en main stash
 
+=======
+texto en main stash
+>>>>>>> Stashed changes
